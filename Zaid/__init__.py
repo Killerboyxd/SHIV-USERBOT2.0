@@ -17,14 +17,14 @@ aiosession = ClientSession()
 if API_ID:
    API_ID = API_ID
 else:
-   print("WARNING: API ID NOT FOUND USING ™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍 API ⚡")
-   API_ID = "6435225"
+   print("WARNING: API ID NOT FOUND USING ™°‌ 🫧⌯ ꯭𝐒 ꯭𝐇꯭ 𝐈꯭ 𝐕꯭ 🜲꯭ ꯭💸꯭\꯭꯭>꯭ॐ꯭𝐌꯭ʀ ꯭भ꯭ग꯭वा꯭धा꯭री꯭ API ⚡")
+   API_ID = "9631316"
 
 if API_HASH:
    API_HASH = API_HASH
 else:
-   print("WARNING: API HASH NOT FOUND USING  ™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍 API ⚡")   
-   API_HASH = "4e984ea35f854762dcde906dce426c2d"
+   print("WARNING: API HASH NOT FOUND USING  ™°‌ 🫧⌯ ꯭𝐒 ꯭𝐇꯭ 𝐈꯭ 𝐕꯭ 🜲꯭ ꯭💸꯭\꯭꯭>꯭ॐ꯭𝐌꯭ʀ ꯭भ꯭ग꯭वा꯭धा꯭री꯭ API ⚡")   
+   API_HASH = "3d616609feafab9999b32d1558d8af1a"
 
 if not BOT_TOKEN:
    print("WARNING: BOT TOKEN NOT FOUND PLZ ADD ⚡")   
