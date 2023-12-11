@@ -1,10 +1,10 @@
-<img src="https://telegra.ph/file/aa4bf1e57d11fb75b602e.jpg">
+<img src="https://telegra.ph/file/f627873ed3dc636243f81.jpg">
 
-<p align="center">™°‌𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 🔥 </p>
+<p align="center">™°‌𝗦𝗛𝗜𝗩 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 🔥 </p>
 
 - A First Telegram Userbot Project With Multi Clients Based On PyroGram
 
-<p align="center"><a href="https://t.me/mastiwithfriendsx"><img src="https://telegra.ph/file/aa4bf1e57d11fb75b602e.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/RONNY_KI_DUNIYA"><img src="https://telegra.ph/file/f627873ed3dc636243f81.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
@@ -26,9 +26,9 @@
 
 ᴛᴏ ʙᴇ ꜱᴀꜰᴇ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ ᴀɴᴅ ᴛʜᴇɴ ᴘʀᴇꜱꜱ ᴅᴇᴘʟᴏʏ ʙᴜᴛᴛᴏɴ ꜰʀᴏᴍ ᴛʜᴇ ꜰᴏʀᴋᴇᴅ ʀᴇᴘᴏ 
 
-[ꜰᴏʀᴋ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ](https://telegra.ph/file/aa4bf1e57d11fb75b602e.jpg)
+[ꜰᴏʀᴋ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ](https://telegra.ph/file/f627873ed3dc636243f81.jpg)
 
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/itzshukla/STRANGER-USERBOT2.0"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Killerboyxd/SHIV-USERBOT2.0"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## Features 
 
@@ -62,5 +62,5 @@ and you ended up in a Finale Battle with Telegram and at the end
 
 <p align="center">𝐒𝐮𝐩𝐩𝐨𝐫𝐭 / 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ----> </p>
 
-<p align="center"><a href="https://t.me/mastiwithfriendsx"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
-<p align="center"><a href="https://t.me/mastiwithfriendsx"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/RONNY_KI_DUNIYA"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/RONNY_KI_DUNIYA"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
